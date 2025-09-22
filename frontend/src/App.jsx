@@ -8,7 +8,6 @@ function App() {
     <>
       <header><Header /></header>
       <ScrolImages />
-      <footer><h1>hello welcome to book my show</h1></footer>
     </>
   )
 }
