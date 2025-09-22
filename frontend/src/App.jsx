@@ -1,12 +1,14 @@
 import './App.css'
 import Header from './components/Header'
+import ScrolImages from './components/ScrolImages'
 
 function App() {
 
   return (
     <>
       <header><Header /></header>
-      <footer><h1>hello welcome</h1></footer>
+      <ScrolImages />
+      <footer><h1>hello welcome to book my show</h1></footer>
     </>
   )
 }

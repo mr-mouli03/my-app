@@ -36,7 +36,7 @@ const SearchBar = ({ isLoggedIn, onLoginToggle }) => {
 const Header2 = () => {
     return (
         <>
-        <div style={{ display: 'flex', flexDirection: 'row', justifyContent:'space-between', width:'100%', boxSizing:'border-box', margin:'0', padding:'0',backgroundColor:'#f0f0f0ff' }}>
+        <div style={{ display: 'flex', flexDirection: 'row', justifyContent:'space-between', width:'100%', boxSizing:'border-box', margin:'0', padding:'0',backgroundColor:'#f0f0f0ff',marginBottom:'0.5rem' }}>
             <section style={{ display: 'flex', alignItems: 'center', gap: '2rem', backgroundColor: '#f0f0f0ff', width: '100%', boxSizing: 'border-box', margin: '0',padding:'0.5rem 3rem' }}>
                 <section>
                     <span>Movies</span>
